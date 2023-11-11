@@ -1,0 +1,22 @@
+.flag{
+    background: gray;
+    width: 350px;
+    height: 200px;
+}
+.flag .box{
+    width: 350px;
+    height: 200px;
+    max-width: 350px;
+    max-height: 200px;
+    background: green;
+    position: absolute;
+}
+.flag .circle{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+    top:11%;
+    left: 11%;
+    position: absolute;
+}
